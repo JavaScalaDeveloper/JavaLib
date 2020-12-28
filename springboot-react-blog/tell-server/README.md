@@ -54,3 +54,8 @@ spring:
     url: jdbc:mysql://127.0.0.1:3306/kxw?autoReconnect=true&useUnicode=true&characterEncoding=utf8&serverTimezone=GMT%2B8
     driver-class-name: com.mysql.jdbc.Driver
 ```
+
+# 可能存在的问题
+报错java.io.FileNotFoundException: tell-server/conf.yml
+
+解决：修改BeanConfig中
