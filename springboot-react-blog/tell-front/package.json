@@ -5,7 +5,7 @@
   "dependencies": {
     "@uiw/react-codemirror": "^1.0.19",
     "antd": "^3.10.8",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-plugin-import": "^1.11.0",
     "braft-editor": "^2.2.5",
     "codemirror": "^5.43.0",
