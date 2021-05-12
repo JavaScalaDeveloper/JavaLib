@@ -8,7 +8,7 @@
     "axios": "^0.18.0",
     "babel-plugin-import": "^1.11.0",
     "braft-editor": "^2.2.5",
-    "codemirror": "^5.43.0",
+    "codemirror": "^5.58.2",
     "draft-js": "^0.10.5",
     "enquire-js": "^0.2.1",
     "for-editor": "^0.0.12",
