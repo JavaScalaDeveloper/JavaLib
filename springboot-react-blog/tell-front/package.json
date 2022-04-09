@@ -13,7 +13,7 @@
     "enquire-js": "^0.2.1",
     "for-editor": "^0.0.12",
     "marked": "^0.6.0",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "prop-types": "^15.6.2",
     "qs": "^6.6.0",
     "rc-banner-anim": "^2.1.2",
